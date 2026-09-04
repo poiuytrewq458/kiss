@@ -46337,3 +46337,8 @@
 [2026-09-04 12:59:24] [Key.media_volume_down]
 [2026-09-04 12:59:25] [Key.media_volume_down]
 [2026-09-04 12:59:25] [Key.media_volume_down]
+[2026-09-04 14:50:40] [Key.media_volume_up]
+[2026-09-04 14:50:42] [Key.media_volume_down]
+[2026-09-04 14:50:43] [Key.media_volume_down]
+[2026-09-04 14:50:44] [Key.media_volume_up]
+[2026-09-04 14:50:45] [Key.media_volume_up]
